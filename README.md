@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hey, I'm Erhan!
 
 <!--
 **erhanjaved/erhanjaved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+💻 Student @ UBC | Math + Data Science  
+🖥️ Coding in Python, R, Java, SQL & more  
+🎾 Tennis & pickleball player  
+🎶 Music & concert enthusiast  
+✈️ Traveler  
+
+💬 Feel free to send me a message on [LinkedIn](https://www.linkedin.com/in/erhanasadjaved)
