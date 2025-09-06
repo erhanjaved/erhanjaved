@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 🎶 Music & concert enthusiast  
 ✈️ Traveler  
 
-💬 Feel free to send me a message on [LinkedIn](https://www.linkedin.com/in/erhanasadjaved)
+💬 Feel free to send me a message on [LinkedIn](https://www.linkedin.com/in/erhanasadjaved)!
